@@ -1,6 +1,6 @@
 # Frontend Mentor - Calculator app
 
-![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Calculator app coding challenge](./public/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -12,8 +12,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [solution](https://github.com/aeorherhe/calculator-app-OOP.git)
-- Live Site URL: [live site](https://aeorherhe-calculator-app-oop.netlify.app)
+- Solution URL: [solution](https://github.com/aeorherhe/calculator-app-react.git)
+- Live Site URL: [live site](https://aeorherhe-calculator-app-react.netlify.app)
 
 ### Built with
 

@@ -70,7 +70,6 @@ body > div button {
 }
 
 .main {
-  width: 90vw;
   max-width: 35rem;
   text-align: center;
 }
@@ -188,8 +187,7 @@ p {
 }
 
 .calculator {
-  padding: 2rem;
-  width: 100%;
+  padding: 2rem 1rem;
 }
 
 .calc-header {
