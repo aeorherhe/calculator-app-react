@@ -6,9 +6,6 @@ const keys =
 [7, 8, 9, "DEL", 4, 5, 6, "+", 1, 2, 3, "-", ".", 0, "÷", "x", "RESET", "="];
 
 const operators = ["+", "-", "÷", "x"];
-let a = "+";
-
-if (operators.includes(a)) console.log(a);
 
 export function CalcKeys() {
   const { state, dispatch, OPERATIONS } = useGlobalContext();
