@@ -9,7 +9,7 @@ const operators = ["+", "-", "÷", "x"];
 
 export function CalcKeys() {
   const { state, dispatch, OPERATIONS } = useGlobalContext();
-  const DEL = state.computed ? "AC" : "DEL";
+  const DEL = state.computed ? "AC." : "DEL";
 
   return (
     <>
@@ -49,7 +49,6 @@ export function CalcKeys() {
           );
         })}
       </div>
-      ;
     </>
   );
 }
