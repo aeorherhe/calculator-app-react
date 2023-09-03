@@ -62,7 +62,7 @@ const reducer = (state, { type, payload }) => {
         };
       }
 
-      if (payload === "AC") {
+      if (payload === "AC.") {
         return {
           ...state,
           currValue: "",
